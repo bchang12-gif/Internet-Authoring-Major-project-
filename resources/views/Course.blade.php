@@ -7,6 +7,8 @@
 </head>
 <body>
 
+{{ dd($courses); }}
+    
 <div class="navbar">
     <div class="logo">
         <img src="/images/uccCrest.avif" alt="UCC Crest">
