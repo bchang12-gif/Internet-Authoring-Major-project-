@@ -7,8 +7,6 @@
 </head>
 <body>
 
-{{ dd($courses); }}
-    
 <div class="navbar">
     <div class="logo">
         <img src="/images/uccCrest.avif" alt="UCC Crest">
@@ -18,7 +16,7 @@
         <li><a href="/"> Directory </a></li>
         <li><a href="/courses" class="active"> Courses </a></li>
         <li><a href="/admissions"> Admissions </a></li>
-        <li><a href="/social"> Social </a></li>
+        <li><a href="/social">Social</a></li>
     </ul>
 </div>
 
@@ -31,9 +29,9 @@
     <div class="course">
         <h3>{{ $course->code }} - {{ $course->name }}</h3>
 
-        <p><strong> Credits:</strong> {{ $course->credits }}</p>
+        <p><strong>Credits:</strong> {{ $course->credits }}</p>
 
-        <p><strong> Prerequisites: </strong> {{ $course->prerequisites }}</p>
+        <p><strong>Prerequisites:</strong> {{ $course->prerequisites }}</p>
 
         <p>{{ $course->description }}</p>
     </div>
@@ -42,7 +40,7 @@
 
 </div>
 
-<a href="mailto:ucconline@ucc.edu.jm" class="fab" title="Email Us"> ✉ </a>
+<a href="mailto:ucconline@ucc.edu.jm" class="fab" title="Email Us">✉</a>
 
 </body>
 </html>
