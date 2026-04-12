@@ -34,7 +34,7 @@
         <i class="fab fa-facebook fa-3x icon facebook">  </i>
         <h3>Facebook</h3>
         <a href="https://www.facebook.com/uccjamaica/" target="_blank">
-             Follow ucc X page, thank you!
+             Follow ucc Facebook page, thank you!
         </a>
     </div>
 
