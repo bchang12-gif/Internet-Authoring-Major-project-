@@ -16,3 +16,7 @@ Route::get('/admissions', function () {
 Route::get('/social', function () {
     return view('Social');
 });
+
+Route::get('/', function () {
+    return view('Home');
+});
