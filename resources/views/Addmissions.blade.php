@@ -23,7 +23,7 @@
     </ul>
 </div>
 
-<h1 class="page-title"> Admissions Requirements </h1>
+<h1 class="page-title"> UCC Admissions Requirements </h1>
 
 <div class="content-box">
 
@@ -33,6 +33,8 @@
     <p> Applicants with 4 subjects may complete UCC replacement courses. </p>
 
     <p> Mature Entry: 25+ years, 5 years work experience required. </p>
+
+    <p> For more information, please tap the "Apply Now" button located below. </p>
 
     <br>
 
