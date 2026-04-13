@@ -26,15 +26,15 @@
 <div class="courses-container">
 
     <div class="course">
-        <img src="/images/Bran.jpg" alt="Bran">
-        <h3> Brandon Chang </h3>
+        <img src="/images/images.jfif" alt="Bran">
+        <h3> Jack Sterlin </h3>
         <h3 p><a href="tel:1-876-456-8989"> Call </a></p></h3>
         <h3 p><a href="mailto:bchang12@stu.ucc.edu.jm"> Email </a></p></h3>
     </div>
 
     <div class="course">
-        <img src="/images/Taj.jpeg" alt="Taj">
-        <h3> Taj Mclean </h3>
+        <img src="/images/images.jfif" alt="Taj">
+        <h3> Collen Mclean </h3>
         <h3 p><a href="tel:1-876-456-8989"> Call </a></p></h3>
         <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
     </div>
