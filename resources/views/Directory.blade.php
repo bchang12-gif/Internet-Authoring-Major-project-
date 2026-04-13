@@ -30,7 +30,7 @@
         <h3> Ms. Jack Sterlin </h3>
         <h3> Head of UCC IT department </h3>
         <p><a href="tel:1-876-456-8989"> Call 1-876-456-8989</a></p>
-        <h3 p><a href="mailto:bchang12@stu.ucc.edu.jm"> Email </a></p></h3>
+        <h3 p><a href="mailto:ithod@ucc.edu.jm"> Email </a></p></h3>
     </div>
 
     <div class="course">
@@ -38,7 +38,7 @@
         <h3> Mr. Collen Mclean </h3>
         <h3> Vice - Head of UCC IT department </h3>
         <p><a href="tel:1-876-456-8989"> Call 1-876-456-8989</a></p>
-        <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
+        <h3 p><a href="mailto:ithod@ucc.edu.jm"> Email </a></p></h3>
     </div>
 
      <div class="course">
@@ -46,7 +46,7 @@
         <h3> Ms. Kayla Smith </h3>
         <h3> Lecturer </h3>
         <p><a href="tel:1-876-456-8989"> Call 1-876-456-6756</a></p>
-        <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
+        <h3 p><a href="mailto:ucconline@ucc.edu.jm"> Email </a></p></h3>
     </div>
     
       <div class="course">
@@ -54,7 +54,7 @@
         <h3> Mr. Adam Pual </h3>
         <h3> Lecturer </h3>
         <p><a href="tel:1-876-456-8989"> Call 1-876-456-6756</a></p>
-        <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
+        <h3 p><a href="mailto:ucconline@ucc.edu.jm"> Email </a></p></h3>
     </div>
 </div>
 
