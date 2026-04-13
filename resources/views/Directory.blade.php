@@ -41,6 +41,14 @@
         <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
     </div>
 
+     <div class="course">
+        <img src="/images/Teacher.jfif" alt="Kayla Smith">
+        <h3> Ms. Kayla Smith </h3>
+        <h3> Lecturer </h3>
+        <p><a href="tel:1-876-456-8989"> Call 1-876-456-6756</a></p>
+        <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
+    </div>
+
 </div>
 
 <a href="mailto:ucconline@ucc.edu.jm" class="fab" title="Email Us"> ✉ </a>
