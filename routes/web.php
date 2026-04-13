@@ -17,6 +17,4 @@ Route::get('/social', function () {
     return view('Social');
 });
 
-Route::get('/', function () {
-    return view('Home');
-});
+
