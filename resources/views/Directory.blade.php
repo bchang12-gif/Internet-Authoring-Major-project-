@@ -28,14 +28,14 @@
     <div class="course">
         <img src="/images/istockphoto-2150163129-612x612.jpg" alt="Jacklin Sterlin">
         <h3> Jack Sterlin </h3>
-        <h3 p><a href="tel:1-876-456-8989"> Call </a></p></h3>
+        <p><a href="tel:1-876-456-8989"> Call 1-876-456-8989</a></p>
         <h3 p><a href="mailto:bchang12@stu.ucc.edu.jm"> Email </a></p></h3>
     </div>
 
     <div class="course">
         <img src="/images/images.jfif" alt="Collen Mclean">
         <h3> Collen Mclean </h3>
-        <h3 p><a href="tel:1-876-456-8989"> Call </a></p></h3>
+        <p><a href="tel:1-876-456-8989"> Call 1-876-456-8989</a></p>
         <h3 p><a href="mailto:tmclean14@stu.ucc.edu.jm"> Email </a></p></h3>
     </div>
 
