@@ -44,7 +44,7 @@
 
 </div>
 
-<a href="mailto:ucconline@ucc.edu.jm" class="fab" title="Email Us"> ✉ </a>
+<a href="mailto:ithod@ucc.edu.jm" class="fab" title="Email Us"> ✉ </a>
 
 <script>
 function toggleMenu() {
