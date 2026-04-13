@@ -21,12 +21,12 @@
     </ul>
 </div>
 
-<h1 class="page-title"> Faculty Directory </h1>
+<h1 class="page-title"> UCC Faculty Directory </h1>
 
 <div class="courses-container">
 
     <div class="course">
-        <img src="/images/istockphoto-2150163129-612x612.jpg" alt="Jacklin Sterlin">
+        <img src="/images/istockphoto-2150163129-612x612.jpg" alt="Ms. Jacklin Sterlin">
         <h3> Ms. Jack Sterlin </h3>
         <h3> Head of UCC IT department </h3>
         <p><a href="tel:1-876-456-8989"> Call 1-876-456-8989</a></p>
@@ -50,7 +50,7 @@
     </div>
     
       <div class="course">
-        <img src="/images/Teacher.teacher-portrait-chalk-board-math-260nw-2423801253.webp" alt="Mr. Adam Pual">
+        <img src="/images/male teacher (1).jfif" alt="Mr. Adam Pual">
         <h3> Mr. Adam Pual </h3>
         <h3> Lecturer </h3>
         <p><a href="tel:1-876-456-8989"> Call 1-876-456-6756</a></p>
